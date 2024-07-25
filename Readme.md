@@ -1,0 +1,1 @@
+A clone of Netflix built with modern web technologies. This project is designed to mimic the user interface and some functionalities of Netflix, including user authentication, content browsing, and media playback.
